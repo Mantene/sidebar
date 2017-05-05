@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Tictactoe" height="250"/>
+  <Content type="html">
+    <![CDATA[
+        <!DOCTYPE html>
+        <html lang="en">
+            <head>
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width,initial-scale=1">
+                <link rel="shortcut icon" href="/favicon.ico">
+                <title>TicTacTuring</title>
+            </head>
+            <body>
+                <div id="root"></div>
+                
+                <script type="text/javascript" src="https://cdn.rawgit.com/Mantene/sidebar/master/tictactoe.js"></script>
+            </body>
+        </html>
+    ]]>
+  </Content>
+</Module>
