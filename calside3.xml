@@ -18,7 +18,7 @@
 
 </body>
 <script src="https://cdn.rawgit.com/nashcheez/Calendar/master/js/jquery-2.1.4.min.js"></script>
-<script src="https://timeline.princeton.edu/public/postsByTag/Arts?accept=json"></script>
+<script script id="JSON" type="application/json" src="https://timeline.princeton.edu/public/postsByTag/Arts?accept=json"></script>
 <script src="https://cdn.rawgit.com/nashcheez/Calendar/master/js/Calendar.js"></script>
     ]]>
   </Content>
