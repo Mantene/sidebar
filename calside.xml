@@ -1,0 +1,19 @@
+
+
+
+
+    <div class="datePickerContainer">
+        <div class="todayContainer" onclick="Calender.getDate('Today');">Today</div>
+        <div class="dateSelector">
+            <div class="previousDate" onclick="Calender.getDate('Previous');"><</div>
+            <div class="nextDate" onclick="Calender.getDate('Next');">></div>
+        </div>
+        <div class="currentDate"></div>
+    </div>
+    <div id="calendarContainer">
+    </div>
+
+</body>
+<script src="JS/jquery-2.1.4.min.js"></script>
+<script src="JS/sampleData.js"></script>
+<script src="JS/Calendar.js"></script>
